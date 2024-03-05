@@ -13,7 +13,7 @@ Ulstrup 5\\
 24999 Wees\\
 Deutschland\\
 E-Mailadresse: dennis<span hidden>.nospam</span>@rohner.io\\
-Link zum Impressum: https://feed-dachau.de/impressum/
+Link zum Impressum: https://feed-wittichenau.de/impressum/
 
 ## Arten der verarbeiteten Daten:
 

@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Feed Dachau
+title: Feed Wittichenau
 description: >- # this means to ignore newlines until "baseurl:"
-  Topaktuelle Meldungen von Behörden, Blogs, Vereinen und Zeitungen aus Dachau. Deine blitzschnelle Quelle für alle neuen Informationen der Region.
+  Topaktuelle Meldungen von Behörden, Blogs, Vereinen und Zeitungen aus Wittichenau. Deine blitzschnelle Quelle für alle neuen Informationen der Region.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://feed-dachau.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://feed-wittichenau.de" # the base hostname & protocol for your site, e.g. http://example.com
 
-repo: https://github.com/midzer/feed-dachau
+repo: https://github.com/midzer/feed-wittichenau
 
 # Build settings
 markdown: kramdown
@@ -34,7 +34,7 @@ sass:
 # SEO/Meta settings
 author: Rohner Solutions
 seo:
-  name: Feed Dachau
+  name: Feed Wittichenau
   type: News
 
 # Exclude from processing.
